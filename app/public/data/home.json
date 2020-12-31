@@ -3,6 +3,7 @@
     "name": "dk",
     "desc": "egg"
   },
-  "message": "success",
+  "msg": "success",
+  "status": "success",
   "code": 1
 }
